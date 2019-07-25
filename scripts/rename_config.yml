@@ -1,0 +1,9 @@
+# directory of folder with original file name (ends with '/')
+original_path: /home/benjamin/datasets/FiveClassThreats/unorganized/
+
+# where to put renamed images (ends with '/')
+renamed_path: /home/benjamin/datasets/FiveClassThreats/unclassified/
+
+# numbers will be appended, suggests ends with '_'
+renamed_prefix: unclassified_
+
